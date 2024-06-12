@@ -11,7 +11,7 @@ pip install matplotlib
 Dataset
 The dataset used for this project can be found on Kaggle. You can download it from the following link:
 
-Diabetic Retinopathy Detection Dataset
+[Diabetic Retinopathy Detection Dataset](https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data)
 
 Project Structure
 The project consists of the following files:
